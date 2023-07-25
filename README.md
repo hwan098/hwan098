@@ -1,16 +1,31 @@
-### Hi there 👋
+<br>
 
-<!--
-**hwan098/hwan098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<p align="center">
+	<a href="https://github.com/eunki96">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1000&pause=1500&color=65DFF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Changhwan+Choi;Learning+Spring-Boot+Framework">
+	</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<div align="center">  
+ 
+## *📘Github Stats* 
+ 
+![Eungi's Github stats](https://github-readme-stats.vercel.app/api?username=hwan098&show_icons=true&hide_border=true)
+ 
+<br/>
+
+
+
+<br/>
+   
+<br/>
+ 
+<br/>
+ 
+<br/>
+
