@@ -15,7 +15,7 @@
  
 ## *📘Github Stats* 
  
-![Eungi's Github stats](https://github-readme-stats.vercel.app/api?username=hwan098&show_icons=true&hide_border=true)
+![Changhwan's Github stats](https://github-readme-stats.vercel.app/api?username=hwan098&show_icons=true&hide_border=true)
  
 <br/>
 
