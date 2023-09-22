@@ -28,6 +28,6 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-### 🚌 Top Langs
+### 🚌 Top Langs & Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan098&layout=compact)
 ![Changhwan's github stats](https://github-readme-stats.vercel.app/api?username=hwan098&show_icons=true&theme=tokyonight)
